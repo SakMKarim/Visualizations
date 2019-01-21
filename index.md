@@ -1,1 +1,2 @@
-## Migration in 2017
+[Migration in 2017](https://sakmkarim.github.io/Proposal/docs/Migration_Map.html)
+
